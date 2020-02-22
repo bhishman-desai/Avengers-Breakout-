@@ -1,4 +1,4 @@
-# Avengers-Breakout-
+# Avengers-Breakout
 This game has an Avengers Theme. There are two levels in this game. Here the player needs to avoid the ball from falling down the Captain's Shield. A Player will be awarded points based upon the blocks or the enemies he kills.
 
 The player needs to control the shield with Mouse.
